@@ -1,0 +1,10 @@
+.header__left h2{
+    color: red;
+}
+/* .header__left{
+    background: url('./../Assets/netflix-removebg-preview.png');
+} */
+img.logo {
+    height: 100px;
+    width: auto;
+}
